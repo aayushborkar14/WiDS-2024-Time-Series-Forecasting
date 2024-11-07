@@ -5,9 +5,9 @@ This repository is created as part of the "Winter in Data Science" project under
 ## Table of Contents
 
 - [Week 0](#week-0)
-  - [Environment Setup](#env-setup)
+  - [Environment Setup](#environment-setup)
   - [Python](#python)
-  - [Numpy/Pandas/Matplotlib](#numpy-pandas-matplotlib)
+  - [Numpy/Pandas/Matplotlib](#numpypandasmatplotlib)
   - [PyTorch](#pytorch)
 - [Week 1](#week-1)
   - [LSTM](#lstm)
